@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-<h2 align="center">Hola Amigos, Sweety Here !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
-  - :school: I'm First Year Undergraduate Student at National Institute of Technology, Jaipur <br>
-  - 💻: Mechanical Stream <br>
-  - :smile: Machine Learning Enthusiast <br>
-  - 🤔 Exploring Competitive Coding <br>
+<h2 align="center"> Hello, Sweety Here !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+  - I'm First Year Undergraduate Student at National Institute of Technology, Jaipur <br>
+  - Mechanical Stream <br>
+  - Machine Learning Enthusiast <br>
+  - Exploring Competitive Coding <br>
 
-<h2 align="center">Connect Me !! 🤝</h2> 
+<h2 align="center">Connect With Me !! 🤝</h2> 
 
 <p align="center">
 <a href="https://github.com/thatssweety" target="_blank">
