@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <h2 align="center"> Hello, Sweety Here !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
-  - I'm First Year Undergraduate Student at National Institute of Technology, Jaipur <br>
+  - I'm Third Year Undergraduate Student at National Institute of Technology, Jaipur <br>
   - Mechanical Stream <br>
   - Machine Learning Enthusiast <br>
-  - Exploring Competitive Coding <br>
+  
 
 <h2 align="center">Connect With Me !! 🤝</h2> 
 
